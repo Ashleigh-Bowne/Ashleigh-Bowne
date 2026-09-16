@@ -38,9 +38,3 @@
 </div>
 
 ###
-
-### My GitHub Contribution Snake 🐍
-
-![GitHub Contribution Snake](https://githubusercontent.com)
-
-###
