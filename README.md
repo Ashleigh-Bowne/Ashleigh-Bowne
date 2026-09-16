@@ -38,16 +38,3 @@
 </div>
 
 ###
-
-### My GitHub Contribution Snake 🐍
-
-![GitHub Contribution Snake](https://githubusercontent.com)
-
-<!-- If you generated a dark mode version, you can use this instead to support both themes: -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-  <img alt="GitHub Contribution Snake" src="https://githubusercontent.com">
-</picture>
-
-###
