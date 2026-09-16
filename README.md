@@ -38,3 +38,7 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ashleigh-Bowne/Ashleigh-Bowne/snake-output/snake.svg" alt="Snake animation" />
+</div>
