@@ -1,5 +1,5 @@
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hey!%20I'm%20Ash.&fontSize=64&fontColor=FFFFFF&fontAlign=50&fontAlignY=39&stroke=-&desc=Programming%20Student.&descSize=20&descAlign=50&descAlignY=90&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hey!%20I'm%20Ash.&fontSize=64&fontColor=FFFFFF&fontAlign=50&fontAlignY=39&stroke=-&desc=✨Programming%20Student✨&descSize=20&descAlign=50&descAlignY=90&textBg=false&color=gradient"  />
 </div>
 
 ###
